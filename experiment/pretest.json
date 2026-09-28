@@ -2,38 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The Moment Distribution Method is most suitable for which type of structures?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Determinate structures",
+        "b": "Indeterminate structures",
+        "c": "Trusses",
+        "d": "Simple beams"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What does the "stiffness" of a beam refer to in the Moment Distribution Method",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Flexibility to bending",
+        "b": "Resistance to rotation",
+        "c": "Moment of inertia",
+        "d": "Support reactions"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  {
+      "question": "For a beam with both ends fixed, what is the stiffness K?",
+      "answers": {
+        "a": "3EI / L",
+        "b": "2EI / L",
+        "c": "4EI / L",
+        "d": "EI / L"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    
   ]
 }
